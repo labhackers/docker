@@ -1,0 +1,8 @@
+[submodule "vendor/bash-bits/bb-common"]
+	path = vendor/bash-bits/bb-common
+	url = git@github.com:bash-bits/bb-common
+	branch = master
+[submodule "vendor/bash-bits/bb-logger"]
+	path = vendor/bash-bits/bb-logger
+	url = git@github.com:bash-bits/bb-logger
+	branch = master
